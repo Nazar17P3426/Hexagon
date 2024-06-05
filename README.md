@@ -1,2 +1,2 @@
 # Hexagon
-last malware???
+C++ GDI trojan by red-wipet
